@@ -65,7 +65,7 @@ php artisan serve
 - Login Page
 <p align="center">
     <a href="#" target="_blank">
-    <img src="https://raw.githubusercontent.com/mohsenkarimi-mk/sistem-informasi-akademik-kampus-laravel/master/public/loginpage.jpg" width="1000">
+    ![loginpage](https://user-images.githubusercontent.com/85327119/211337348-9cf77180-d9e4-4936-973b-2734f2cf2cdd.jpg)
     </a>
 </p>
 
