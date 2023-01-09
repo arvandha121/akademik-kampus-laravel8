@@ -63,11 +63,7 @@ php artisan serve
 
 ## Layout
 - Login Page
-<p align="center">
-    <a href="#" target="_blank">
-    ![loginpage](https://user-images.githubusercontent.com/85327119/211337348-9cf77180-d9e4-4936-973b-2734f2cf2cdd.jpg)
-    </a>
-</p>
+![loginpage](https://user-images.githubusercontent.com/85327119/211337348-9cf77180-d9e4-4936-973b-2734f2cf2cdd.jpg)
 
 ## Author
 
