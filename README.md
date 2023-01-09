@@ -65,6 +65,9 @@ php artisan serve
 - Login Page
 ![loginpage](https://user-images.githubusercontent.com/85327119/211337348-9cf77180-d9e4-4936-973b-2734f2cf2cdd.jpg)
 
+- Dashboard Admin
+![dashboardadmin](https://user-images.githubusercontent.com/85327119/211338356-5e655537-cbe0-4260-ad0c-7e959682c823.jpg)
+
 ## Author
 
 - E-mail : nauvan121@gmail.com
